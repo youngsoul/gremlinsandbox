@@ -10,7 +10,7 @@ This will create the *modern* pre-initialized db as documented in the [Getting S
 
 ## AWS Neptune
 
-All of this work in getting familiar with *Gremlin* is in anticipation for working on the AWS Cloud GraphDB called *Neptune*
+All of this work in to get familiar with *Gremlin* in anticipation for working on the AWS Cloud GraphDB called *Neptune*
 
 [AWS Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/intro.html)
 
