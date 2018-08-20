@@ -7,10 +7,25 @@ This repo assume you are running a local gremlin-server and the modern initializ
 ```./bin/gremlin-server.sh conf/gremlin-server-modern.yaml```
 
 This will create the *modern* pre-initialized db as documented in the [Getting Started](http://tinkerpop.apache.org/docs/current/tutorials/getting-started/)
+## Apache Tinkerpop
+
+[Tinkerpop](http://tinkerpop.apache.org)
+
+Graph computing framework for both graph databases and graph analytic systems.
+
+From
+```
+Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework distributed under the commercial friendly Apache2 license. When a data system is TinkerPop-enabled, its users are able to model their domain as a graph and analyze that graph using the Gremlin graph traversal language.
+```
+
 
 ## AWS Neptune
 
 All of this work in to get familiar with *Gremlin* in anticipation for working on the AWS Cloud GraphDB called *Neptune*
+
+```
+Amazon Neptune supports popular graph models Property Graph and W3C's RDF, and their respective query languages Apache TinkerPop Gremlin and SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets.
+```
 
 [AWS Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/intro.html)
 
@@ -18,7 +33,7 @@ Running locally first, to learn how to interface Python, Gremlin is faster and c
 
 ## Environment
 
-I created this on MacOS and Python 3.6.1
+I created this on MacOS and Python 3.6.1, with Apache Tinkerpop 3.3.3
 
 ## Instructions
 
