@@ -15,7 +15,11 @@ Graph computing framework for both graph databases and graph analytic systems.
 
 From
 ```
-Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework distributed under the commercial friendly Apache2 license. When a data system is TinkerPop-enabled, its users are able to model their domain as a graph and analyze that graph using the Gremlin graph traversal language.
+Apache TinkerPop™ is an open source, vendor-agnostic, graph computing
+framework distributed under the commercial friendly Apache2 license.
+ When a data system is TinkerPop-enabled, its users are able to model
+ their domain as a graph and analyze that graph using the Gremlin
+ graph traversal language.
 ```
 
 
@@ -24,7 +28,10 @@ Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framewor
 All of this work in to get familiar with *Gremlin* in anticipation for working on the AWS Cloud GraphDB called *Neptune*
 
 ```
-Amazon Neptune supports popular graph models Property Graph and W3C's RDF, and their respective query languages Apache TinkerPop Gremlin and SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets.
+Amazon Neptune supports popular graph models Property Graph and
+W3C's RDF, and their respective query languages Apache TinkerPop Gremlin
+and SPARQL, allowing you to easily build queries that efficiently
+navigate highly connected datasets.
 ```
 
 [AWS Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/intro.html)
