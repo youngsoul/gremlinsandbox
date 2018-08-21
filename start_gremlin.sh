@@ -1,0 +1,1 @@
+/Users/patryan/Development/apache/tinkerpop/apache-tinkerpop-gremlin-server-3.3.3/bin/gremlin-server.sh /Users/patryan/Development/apache/tinkerpop/apache-tinkerpop-gremlin-server-3.3.3/conf/gremlin-server-modern.yaml

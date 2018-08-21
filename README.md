@@ -1,6 +1,8 @@
 # Tinkerpop, Gremlin, Python Example
 
-A sandbox repo of how to use Gremlin in Python against the Tinkerpop GraphDB.
+A sandbox repo of how to use Gremlin in Python against the Tinkerpop 3.3.3 GraphDB.
+
+I hope you find the examples helpful.  See the Jupyter notebook for a collection of example and explanations.
 
 This repo assume you are running a local gremlin-server and the modern initialized db:
 
@@ -52,6 +54,7 @@ I created this on MacOS and Python 3.6.1, with Apache Tinkerpop 3.3.3
 
 ## Additional Reading
 
+- http://tinkerpop.apache.org/docs/current/tutorials/getting-started/
 - https://www.datastax.com/dev/blog/a-gremlin-implementation-of-the-gremlin-traversal-machine
 - https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html
 - https://github.com/nedlowe/gremlin-python-example
